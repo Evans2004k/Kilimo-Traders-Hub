@@ -1,6 +1,6 @@
 body{
     display: grid;
-    zoom: 120%;
+    zoom: 100%;
 }
 /*------------header---------*/
 header{
@@ -198,4 +198,5 @@ footer{
         .login{
             background-color: rgb(237, 240, 235);
             border-radius: 1.2em;
+
         }
